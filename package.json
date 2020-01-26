@@ -1,0 +1,17 @@
+{
+  "name": "ncov-notes",
+  "version": "1.0.0",
+  "description": "nCoV 下的生活记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nCoV"
+  ],
+  "author": "mayandev",
+  "license": "CC-BY-NC-ND-3.0",
+  "dependencies": {
+    "loppo": "^0.6.14"
+  }
+}

@@ -1,0 +1,7 @@
+dir: notes
+output: dist
+site: nCoV 下的生活记录
+theme: loppo-theme
+themeDir: themes/loppo-theme
+direction: ltr
+id: nCoV-notes
