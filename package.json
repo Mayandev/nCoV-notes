@@ -13,6 +13,10 @@
   ],
   "author": "mayandev",
   "license": "CC-BY-NC-ND-3.0",
+  "devDependencies": {
+    "gh-pages": "latest",
+    "husky": "latest"
+  },
   "dependencies": {
     "loppo": "^0.6.14"
   }
