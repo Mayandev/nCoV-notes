@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "nCoV 下的生活记录",
   "homepage": "https://mayandev.github.io/nCoV-notes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mayandev/nCoV-notes.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "loppo",
