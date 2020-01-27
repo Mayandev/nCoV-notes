@@ -532,3 +532,7 @@ h1.article-title {
   padding-bottom: 0px;
   margin-bottom: 0px;
 }
+
+.navbar {
+	visibility: hidden;
+}

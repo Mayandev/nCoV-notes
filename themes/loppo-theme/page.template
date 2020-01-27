@@ -17,7 +17,9 @@
 
 <nav class="columns navbar">
   <div class="column logo is-3 is-offset-1">
-    
+    <a class="is-brand" href="<%= relative_root_path %>index.html">
+      <%= site %>
+    </a>
   </div>
 </nav>
 
