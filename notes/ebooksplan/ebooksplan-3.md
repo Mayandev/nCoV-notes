@@ -1,5 +1,6 @@
 
-![](../images/ebooksplan/ebooksplan-5.jpeg)
+![](../images/ebooksplan/ebooksplan-6.jpeg) 
+
 
 > 原文地址：[自我隔离的第三天](https://mp.weixin.qq.com/s/9Xi6QF_JZcY-Mw0fae_f9g)
 
