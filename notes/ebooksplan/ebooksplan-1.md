@@ -1,4 +1,4 @@
-![](/images/ebooksplan/ebooksplan-1.jpeg)
+![](../images/ebooksplan/ebooksplan-1.jpeg)
 
 > 原文地址：[自我隔离的第 1 天](https://mp.weixin.qq.com/s/LAq-ybXJYUf6p8ZYnoosQg)
 
@@ -20,7 +20,7 @@
 
 生活上都是可以保障的，最长可持续时间预估为一周。想当初玩《瘟疫公司》，这回要来现实演绎一把，真不是滋味呢！
 
-![](/images/ebooksplan/ebooksplan-2.jpeg)
+![](../images/ebooksplan/ebooksplan-2.jpeg)
 
 
 为什么要放辣椒？😱
@@ -29,7 +29,7 @@
 
 1、刷完 Netflix 的新剧《彼岸之嫁》；
 
-![](/images/ebooksplan/ebooksplan-3.jpeg)
+![](../images/ebooksplan/ebooksplan-3.jpeg)
 
 **2、维护好[「nCoV 相关资讯实时播报」](https://t.me/nCoV2019)微信群组；**
 3、记录每日生活并成文，毕竟这样事情很难体验，也是人类有限生活的一部分；

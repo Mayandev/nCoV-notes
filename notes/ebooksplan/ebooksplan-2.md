@@ -1,5 +1,5 @@
 
-![](/images/ebooksplan/ebooksplan-4.jpeg)
+![](../images/ebooksplan/ebooksplan-4.jpeg)
 
 > 原文地址：[自我隔离的第二天](https://mp.weixin.qq.com/s/lL_SHESgBdSNVDlCBBWf4A)
 
@@ -15,7 +15,7 @@
 在排骨中加了几块豆腐，就成了今天最好的食物，但还是缺少点什么吧！于是乎试着打开「饿了么」，居然下单买了不少水果。当快递小哥打来电话，满身雨水地送来打包袋时，我非常激动地隔着口罩喊了句「谢谢！」，我看不清他的模样，他的表情和步伐都是匆忙的，而我敬佩他们，就像我在旅行中遇到的每一个人一样，**每个人都在很努力地生活着呀**！
 
 
-![](/images/ebooksplan/ebooksplan/ebooksplan-5.jpeg)
+![](../images/ebooksplan/ebooksplan/ebooksplan-5.jpeg)
 
 
 说说《彼岸之嫁》，我不喜欢这剧。我觉得那不是真实的中国，那不是我实际感受到的中国，满足他国人（这里不用外国人这个词）的猎奇心理罢了。讲好中国人自己的故事，这是我们这一代人的责任，这一次的流感，将会是 2020s 时期最深刻的开端。
