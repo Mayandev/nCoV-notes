@@ -64,7 +64,7 @@
 百度词条已经变为黑白
 
 
-今天继续完善了 [nCoV-note](https://github.com/Mayandev/nCoV-notes) 项目，使用了 GitHub Actions 完成自动化的部署，项目只需要触发 push 和 PR 就可以自动变一项目，完成页面的构建。
+今天继续完善了 [nCoV-note](https://github.com/Mayandev/nCoV-notes) 项目，使用了 GitHub Actions 完成自动化的部署，项目只需要触发 push 和 PR 就可以自动编译项目，完成页面的构建。
 
 ![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/nCoV-6.png)
 
