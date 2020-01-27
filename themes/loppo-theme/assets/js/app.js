@@ -1,19 +1,3 @@
-/* set content's min-height */
-(function () {
-  var content = document.querySelector('.content');
-  var navbarHeight =
-    window.getComputedStyle(document.querySelector('.navbar'))
-    .getPropertyValue('height');
-  var footHeight =
-    window.getComputedStyle(document.querySelector('.foot'))
-    .getPropertyValue('height');
-  var minHeight = document.documentElement.clientHeight
-    - parseInt(navbarHeight)
-    - parseInt(footHeight);
-  content.style.minHeight = minHeight + 'px';
-})();
-
-
 /* insert article's toc */
 (function () {
   var article = document.querySelector('.article');
@@ -27,46 +11,6 @@
     article.insertBefore(toc_div, firstH2Title);
   }
 })();
-
-
-/* hashchange handler */
-window.onhashchange = function () {
-  var hash = location.hash;
-  if (!hash) return;
-  var nav = document.querySelector('.navbar');
-  var navHeight = nav.getBoundingClientRect().height;
-  window.scrollBy(0, -1 * navHeight);
-};
-
-
-/* content font size */
-(function () {
-  var content = document.querySelector('.content');
-  var sizeArr = ['is-medium', null, 'is-large'];
-  var currentSize = 1;
-  var switcher = document.querySelector('.article-bar .level-item .link-item-size');
-  switcher.onclick = function (e) {
-    content.classList.remove(sizeArr[currentSize]);
-    currentSize += 1;
-    if (currentSize > 2) currentSize -= 3;
-    content.classList.add(sizeArr[currentSize]);
-  };
-})();
-
-
-/* toggle book toc */
-(function () {
-  var toc = document.querySelector('.book-toc');
-  var switcher = document.querySelector('.article-bar .level-item .link-item-toc');
-  switcher.onclick = function (e) {
-    toc.classList.toggle('is-hidden');
-  };
-  var closeButton = toc.querySelector('.title-close');
-  closeButton.onclick = function (e) {
-    toc.classList.toggle('is-hidden');
-  };
-})();
-
 
 /* toggle first level directory */
 (function () {
@@ -113,70 +57,6 @@ function insert_icon_image(iconName) {
 }
 insert_icon_image();
 
-
-/* sticky article bar */
-(function () {
-  var article = document.querySelector('.article-container');
-  var articleWidth = article.getBoundingClientRect().width;
-  var bar = document.querySelector('.article-bar');
-  bar.style.width = articleWidth + 'px';
-  var foot = document.querySelector('.foot');
-
-  var placeholder = document.createElement('div');
-  var barWidth = bar.getClientRects()[0].width;
-  var barHeight = bar.getClientRects()[0].height;
-  foot.style.height = barHeight + 'px';
-  placeholder.style.width = barWidth + 'px';
-  placeholder.style.height = barHeight + 'px';
-  var isAdded = false;
-
-  function throttle(f) {
-    var mark = Date.now();
-    return function () {
-      var now = Date.now();
-      if ((now - mark) < 300) return;
-      mark = now;
-      f();
-    };
-  }
-
-  function toggleSticky() {
-    setTimeout(function () {
-    var footTop = foot.getBoundingClientRect().top;
-    if (!isAdded && footTop > (document.documentElement.clientHeight + barHeight + 10)) {
-      isAdded = true;
-      article.insertBefore(placeholder, bar);
-      bar.classList.add('sticky');
-    } else if (isAdded && footTop <= (document.documentElement.clientHeight + barHeight + 10)) {
-      article.removeChild(placeholder);
-      bar.classList.remove('sticky');
-      isAdded = false;
-    }
-    }, 0);
-  }
-
-  toggleSticky();
-  window.addEventListener('scroll', throttle(toggleSticky));
-})();
-
-
-/* progress indicator */
-(function () {
-  // var pageHeight = document.documentElement.scrollHeight;
-  var article = document.querySelector('.article');
-  var viewportHeight = document.documentElement.clientHeight;
-  var articleHeight = article.getBoundingClientRect().height;
-  var prog = document.querySelector('.progress-indicator');
-  window.addEventListener('scroll', function () {
-    window.requestAnimationFrame(function () {
-      var perc = Math.max(0, Math.min(1, (viewportHeight - article.getBoundingClientRect().top) / articleHeight));
-      updateProgress(perc);
-    });
-  });
-  function updateProgress(perc) {
-    prog.style.width = perc * 100 + '%';
-  }
-})();
 
 /* support mermaid.js */
 (function () {
