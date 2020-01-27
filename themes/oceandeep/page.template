@@ -19,9 +19,7 @@
 
 <nav class="columns navbar">
   <div class="column logo is-3 is-offset-1">
-    <a class="is-brand" href="<%= relative_root_path %>index.html">
-      <%= site %>
-    </a>
+  
   </div>
 </nav>
 
@@ -34,7 +32,7 @@
     <div class="article">
       <%= content %>
       <% if (current_path === '/') { %>
-        <h2>Table of Contents</h2>
+        <h2>目录</h2>
         <%= chapterList %>
       <% } %>
     </div>

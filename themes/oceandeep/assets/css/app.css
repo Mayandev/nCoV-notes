@@ -4,7 +4,7 @@
 
 :root {
   font-size: 16px;
-  font-family: "FZLanTingHei", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Hiragino Kaku Gothic Pro", Meiryo, "Malgun Gothic", sans-serif;
+  font-family: Optima-Regular, PingFangTC-light; 
   box-sizing: border-box;
 }
 
@@ -36,12 +36,8 @@ code {
  */
 
 .navbar {
-  background-color: #3273dc;
+  background-color: #ffffff;
   color: #FFF;
-  position: fixed;
-  top: 0;
-  right: 0;
-  width: 100%;
   height: 3.3125rem;
   padding-bottom: 0;
   margin-right: 0;
@@ -151,7 +147,6 @@ code {
 .content {
   background-color: #FFF;
   color: #333;
-  margin-top: 3.3125rem;
   padding-left: 1rem;
   padding-right: 1rem;
   line-height: 1.6;
@@ -413,61 +408,6 @@ Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-lic
 
 
 
-/**
- * forked from pixyll.com
- * MIT license
- */
-
- @font-face {
-	font-family: 'Merriweather';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Merriweather Light'), local('Merriweather-Light'), url('./pixyll/merriweather-v19-latin-300.woff') format('woff');
-}
-@font-face {
-	font-family: 'Merriweather';
-	font-style: normal;
-	font-weight: bold;
-	src: local('Merriweather Heavy'), local('Merriweather-Heavy'), url('./pixyll/merriweather-v19-latin-700.woff') format('woff');
-}
-@font-face {
-	font-family: 'Merriweather';
-	font-style: italic;
-	font-weight: normal;
-	src: local('Merriweather Light Italic'), local('Merriweather-LightItalic'), url('./pixyll/merriweather-v19-latin-300italic.woff') format('woff');
-}
-@font-face {
-	font-family: 'Merriweather';
-	font-style: italic;
-	font-weight: bold;
-	src: local('Merriweather Heavy Italic'), local('Merriweather-HeavyItalic'), url('./pixyll/merriweather-v19-latin-700italic.woff') format('woff');
-}
-
-@font-face {
-	font-family: 'Lato';
-	font-style: normal;
-	font-weight: normal;
-	src: local('Lato Light'), local('Lato-Light'), url('./pixyll/lato-v14-latin-300.woff') format('woff');
-}
-@font-face {
-	font-family: 'Lato';
-	font-style: normal;
-	font-weight: bold;
-	src: local('Lato Black'), local('Lato-Blcak'), url('./pixyll/lato-v14-latin-900.woff') format('woff');
-}
-@font-face {
-	font-family: 'Lato';
-	font-style: italic;
-	font-weight: normal;
-	src: local('Lato LightItalic'), local('Lato-LightItalic'), url('./pixyll/lato-v14-latin-300italic.woff') format('woff');
-}
-@font-face {
-	font-family: 'Lato';
-	font-style: italic;
-	font-weight: bold;
-	src: local('Lato BlackItalic'), local('Lato-BlackItalic'), url('./pixyll/lato-v14-latin-900italic.woff') format('woff');
-}
-
 h1,
 .h1,
 .f1 {
@@ -514,7 +454,7 @@ h4 {
 */
 
 body {
-	font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", "STSong", Serif;
+	font-family: Optima-Regular, PingFangTC-light; 
 	line-height: 1.5rem;
 	font-weight: 400;
 }
@@ -579,7 +519,7 @@ abbr {
 }
 pre,
 code {
-	font-family: Menlo, Monaco, "Courier New", monospace;
+	font-family: Optima-Regular, PingFangTC-light; 
 }
 
 code,
@@ -624,7 +564,7 @@ h5,
 .h5,
 h6,
 .h6 {
-	font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+	font-family: Optima-Regular, PingFangTC-light; 
 	font-weight: bold;
 	line-height: 1.2;
 	margin: 1em 0 0.5em;
@@ -729,7 +669,7 @@ h6,
 	line-height: 1.5em;
 	color: #7a7a7a;
 	background-color: #fafafa;
-	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+	font-family: Optima-Regular, PingFangTC-light; 
 	font-weight: 300;
 	clear: both;
 	padding-left: 0;
@@ -742,7 +682,7 @@ h6,
 	font-size:1.1rem;
 }
 .md-tag {
-	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+	font-family: Optima-Regular, PingFangTC-light; 
 }
 .code-tooltip {
 	background: white;
@@ -850,7 +790,7 @@ h6,
 
 .outline-expander:before {
  	content: "+";
-	font-family: inherit;
+	font-family: Optima-Regular, PingFangTC-light; 
 	color: rgb(108, 108, 108); 
   	font-size: 1.5rem;
  	top: 0.1rem;
@@ -866,12 +806,12 @@ h6,
 
 /** source code mode */
 #typora-source {
-	font-family: Courier, monospace;
+	font-family: Optima-Regular, PingFangTC-light; 
     color: #6A6A6A;
 }
 
 .os-windows #typora-source {
-	font-family: inherit;
+	font-family: Optima-Regular, PingFangTC-light; 
 }
 
 .cm-s-typora-default .cm-header, 
