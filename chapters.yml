@@ -1,3 +1,6 @@
-# 文件名: 文章标题
-- ebooksplan.md: '@eBooksPlan: 自我隔离的第 x 天'
-- mayandev.md: '@mayandev：nCoV 下的生活记录'
+# 目录：标题
+- ebooksplan/: '@ebooksplan'
+- ebooksplan/ebooksplan-1.md: 自我隔离的第一天
+- ebooksplan/ebooksplan-2.md: 自我隔离的第二天
+- mayandev/: '@mayandev'
+- mayandev/mayandev.md: nCoV 下的生活记录
