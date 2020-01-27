@@ -4,8 +4,10 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: checkout
-      uses: actions/checkout@v1
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
 
     - name: buildAndDeploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
