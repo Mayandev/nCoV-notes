@@ -9,12 +9,13 @@
 
 步骤：
 
-```bash
+
 1. fork 这个 Repo
 2. 在 notes 文件夹中新建自己的 markdown 文件，图片存放在 images 文件夹中
 3. 在 chapters.yml 建立目录，设置文章标题
-4. 提交 PR，文章会通过 GitHub Action 自动更新
-```
+4. 运行 `npm run server ` ，查看是否正常显示
+5. 提交 PR，PR 通过后文章会自动发布更新
+
 
 ### 2、方式二
 
