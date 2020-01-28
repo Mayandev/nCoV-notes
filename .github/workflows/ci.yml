@@ -1,5 +1,10 @@
 name: nCoV-notes
-on: [push, pull_request]
+on: 
+  push:
+    branches:
+      - master
+  pull_request:
+    types: [closed]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
