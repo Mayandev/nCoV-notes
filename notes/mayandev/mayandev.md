@@ -129,13 +129,14 @@
 
 下午花些时间整理了一些内容，写了一片推送：[自我隔离时如何避免焦躁](https://mp.weixin.qq.com/s/Vl30lvqv_PJlzeJmUf1U4g)
 
-晚上和喜欢的人聊了会天，互相倾诉了近期的情绪以及发生的一些事。
+晚上和朋友聊了会天，互相倾诉了近期的情绪以及发生的一些事。
 
 经历过这些事情后，想必大家都会更珍惜身边的人。
 
-![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/nCoV-12.jpeg)
 
-gay gay 的室友。
+看看我 gay gay 的室友。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/nCoV-12.jpeg)
 
 这个每日记录就先到这了，后面如果有新鲜事在写上去，但是 [nCoV-note](https://mayandev.github.io/nCoV-notes/) 上的内容我依然会每天收集并进行更新，欢迎关注。
 
