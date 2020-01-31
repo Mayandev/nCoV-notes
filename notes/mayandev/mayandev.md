@@ -111,3 +111,32 @@
 就酱，先记到这，明天潜伏期的最后一天，冲！
 
 
+
+## 2020.01.30 大年初六
+
+今天的早饭是牛奶+奥利奥+散装面包+若干颗蓝莓，还是妹妹的花样多。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/nCoV-10.JPG)
+
+
+突然想将丢掉很多年的围棋捡起来，找了个人机对战的[围棋网站](https://www.cosumi.net/zh/)，却发现连最简单的人机都下不过了。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/nCoV-11.JPG)
+
+我执白棋，毫无悬念的输了。
+
+总是一心想吃掉对方，反而容易失去一大块“疆域”。围棋的输赢不是看谁吃子最多，而是看谁占的地盘最大。后面去 b 站看了一些教学视频，才慢慢的想起一些技巧。
+
+下午花些时间整理了一些内容，写了一片推送：[自我隔离时如何避免焦躁](https://mp.weixin.qq.com/s/Vl30lvqv_PJlzeJmUf1U4g)
+
+晚上和喜欢的人聊了会天，互相倾诉了近期的情绪以及发生的一些事。
+
+经历过这些事情后，想必大家都会更珍惜身边的人。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/nCoV-12.jpeg)
+
+gay gay 的室友。
+
+这个每日记录就先到这了，后面如果有新鲜事在写上去，但是 [nCoV-note](https://mayandev.github.io/nCoV-notes/) 上的内容我依然会每天收集并进行更新，欢迎关注。
+
+
