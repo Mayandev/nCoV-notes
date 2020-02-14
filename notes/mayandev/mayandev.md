@@ -215,10 +215,12 @@
 
 ## 2020.2.12 周三
 
-今天看了一部名为《Sing Street》的电影，是我非常喜欢的音乐类型影片。剧情很简单，就如下面海报上的文字，
+今天看了一部名为《Sing Street》的电影，是我非常喜欢的音乐类型影片。剧情很简单，就如下面海报上的文字。
 
 > Boy meets girls, girls unimpressed, boys starts band.
 > 男孩遇见了女孩，女孩对男孩不感兴趣，男孩开始组建乐队。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/music-code-2.jpg)
 
 看完后不禁让我想起了在 B 站上看到的一段文字，分享给各位。
 
