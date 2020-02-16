@@ -267,7 +267,12 @@
 ![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/nCoV-21.jpg)
 
 
-
 也是校历原定报到注册的第一天，翻了翻相册，有拍好多学校的照片。找了几张，发条朋友圈，是有点想念学校了。
 
 ![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/nCoV-20.jpg)
+
+## 2020.2.15 周六
+
+今天看到了一首诗，很美。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/nCoV-22.jpeg)
